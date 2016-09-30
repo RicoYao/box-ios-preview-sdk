@@ -12,7 +12,7 @@ s.source                = { :http => 'https://raw.githubusercontent.com/box/box-
 
 # Platform
 
-s.ios.deployment_target = "7.0"
+s.ios.deployment_target = "9.0"
 
 # File patterns
 
