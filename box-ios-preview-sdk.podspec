@@ -26,7 +26,7 @@ s.preserve_paths = 'BoxPreviewSDK.framework', 'LICENSE'
 s.requires_arc          = true
 s.ios.header_dir        = "BoxPreviewSDK"
 
-s.dependency              'box-ios-sdk'
+#s.dependency              'box-ios-sdk'
 
 s.resource_bundle = {
   'BoxPreviewSDKResources' => [
